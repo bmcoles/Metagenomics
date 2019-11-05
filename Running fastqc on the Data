@@ -1,0 +1,2 @@
+fastqc Metagenomes/*R1* #Runs from my default directory; wildcards allow me to quickly analayze just the first set of data
+fastqc Metagenomes/*R2* #Runs from my default directory; wildcards allow me to quickly analayze just the second set of data
